@@ -1,0 +1,13 @@
+CACHE MANIFEST
+    #version 0.0.1
+    ../html/index.html
+    ../css/index.css
+    ../css/bootstrap.css
+    ../js/index.js
+    ../js/cookie.js
+    ../js/bootstrap.js
+    ../js/jquery-3.2.1.js
+    ../fonts/icomoon.eot
+    ../fonts/icomoon.svg
+    ../fonts/icomoon.ttf
+    ../fonts/icomoon.woff
